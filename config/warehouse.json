@@ -1,0 +1,62 @@
+{
+  "urls": [
+    {
+      "name": "【主力】光影·全网聚合专线 (GitHub云端)",
+      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.json"
+    },
+    {
+      "name": "【特色】光影·4K网盘原画专线 (GitHub云端)",
+      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/pan4k.json"
+    },
+    {
+      "name": "【特色】光影·央视卫视直播专线 (GitHub云端)",
+      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/live_iptv.json"
+    },
+    {
+      "name": "【特色】光影·老片少儿专线 (GitHub云端)",
+      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/classic_kids.json"
+    },
+    {
+      "name": "【备用】肥猫·全网高防专线",
+      "url": "http://xn--z7x900a.live/"
+    },
+    {
+      "name": "【备用】小马·高清极速专线",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "【备用】南风·影视综合专线",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    }
+  ],
+  "storeHouse": [
+    {
+      "sourceName": "【主力】光影·全网聚合专线 (GitHub云端)",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.json"
+    },
+    {
+      "sourceName": "【特色】光影·4K网盘原画专线 (GitHub云端)",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/pan4k.json"
+    },
+    {
+      "sourceName": "【特色】光影·央视卫视直播专线 (GitHub云端)",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/live_iptv.json"
+    },
+    {
+      "sourceName": "【特色】光影·老片少儿专线 (GitHub云端)",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/classic_kids.json"
+    },
+    {
+      "sourceName": "【备用】肥猫·全网高防专线",
+      "sourceUrl": "http://xn--z7x900a.live/"
+    },
+    {
+      "sourceName": "【备用】小马·高清极速专线",
+      "sourceUrl": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "sourceName": "【备用】南风·影视综合专线",
+      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    }
+  ]
+}
