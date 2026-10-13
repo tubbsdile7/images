@@ -26,8 +26,8 @@
     "isNoticeShow": "1",
     "livePass": "0123456789abcdef|0123456789abcdef",
     "play_tips": "",
-    "ui_startad_bj": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/wallpaper_cinema_4k.jpg",
-    "ui_startad": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/splash_gyjh_4k.png",
+    "ui_startad_bj": "https://api.dujin.org/bing/1920.php",
+    "ui_startad": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/splash_movie_ad.jpg",
     "ui_startad_mobile": "",
     "ui_startad_time": "4",
     "ui_startad_hdptime": "5",
@@ -171,10 +171,10 @@
       }
     ],
     "wallpaper_presets": {
+      "bing_daily_4k_dynamic": "https://api.dujin.org/bing/1920.php",
+      "app_original_bg": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/wallpaper_original.png",
       "cinema_dark_4k": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/wallpaper_cinema_4k.jpg",
-      "pure_black_4k": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/wallpaper_pureblack_4k.jpg",
-      "bing_daily_hd": "https://api.dujin.org/bing/1920.php",
-      "default_builtin": ""
+      "pure_black_4k": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/img/wallpaper_pureblack_4k.jpg"
     }
   },
   "time": 1791168360
