@@ -1,0 +1,175 @@
+{
+  "code": 200,
+  "msg": {
+    "appkey": "8b8c71b17d9985fe6d6192c655681352",
+    "app_bb": "1.6.8",
+    "app_nshow": "更换了光影团队定制盒子显示的长图标和普通图标，提示美观度此版本主要增加了直播节目信息显示和文字预告。修复若干小问题，可到时光市场更新或官网https://xz.gysj.app下载升级包",
+    "app_nurl": "http://xz.sznas.net:920/gysj/gyjh.apk",
+    "app_bb_mobile": "1.0",
+    "app_nshow_mobile": "",
+    "app_nurl_mobile": "",
+    "mode": "y",
+    "ui_state": "y",
+    "ui_app_banner": "",
+    "ui_state_live": "y",
+    "ui_state_jkjxkg": "y",
+    "ui_state_livevip": "n",
+    "ui_state_jk": "n",
+    "ui_state_dcjm": "n",
+    "ui_logo": "",
+    "ad_slide": "1",
+    "ad_slide_mobile": "1",
+    "ad_slide_soundkg": "0.5",
+    "free_time": "360",
+    "free_time_tip": "60",
+    "isToPay": "false",
+    "isNoticeShow": "1",
+    "livePass": "0123456789abcdef|0123456789abcdef",
+    "play_tips": "",
+    "ui_startad_bj": "",
+    "ui_startad": "https://bing.img.run/uhd.php",
+    "ui_startad_mobile": "",
+    "ui_startad_time": "4",
+    "ui_startad_hdptime": "5",
+    "kami_url": "",
+    "app_json": "https://cdn09022024.gitlink.org.cn/api/v1/repos/xxooo/in/raw/in.bmp",
+    "app_jsonb": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/warehouse.json",
+    "app_jsonc": "http://tv.sznas.net:920//app/duocang.json",
+    "app_huodong": "https://github.com/tubbsdile7/images",
+    "logon_way": "0",
+    "smtp_state": "y",
+    "ui_paybackg": "",
+    "ui_kefu": "",
+    "ui_kefu_mobile": "",
+    "ui_kefu2": "",
+    "ui_group": "联系QQ71138312加群",
+    "ui_group_mobile": "",
+    "ui_button3backg": "http://xz.sznas.net:920/logo/bb.png",
+    "ui_buttonadimg": "http://xz.sznas.net:920/logo/bb.png",
+    "ui_button3backg2": "http://xz.sznas.net:920/logo/sj.png",
+    "ui_buttonadimg2": "http://xz.sznas.net:920/logo/sj.png",
+    "ui_button3backg3": "http://xz.sznas.net:920/logo/mz.jpg",
+    "ui_buttonadimg3": "http://xz.sznas.net:920/logo/mz.jpg",
+    "ui_vipdc": "",
+    "ui_vipdc_zdmc": "",
+    "ui_vipdc_zdzh": "",
+    "ui_vipdc_zdzhpass": "123456",
+    "ui_vipzb": "",
+    "ui_vipzb_zdmc": "",
+    "ui_vipzb_zdzh": "",
+    "ui_vipzb_zdzhpass": "123456",
+    "ui_removersc": "已失效|B站|相关|夸父原|夸父智|夸父原1|夸父原2|夸父原3|夸父原4|夸父智1|夸父智2|夸父智3|夸父智4|嘟嘟无限1|嘟嘟无限2|嘟嘟无限3|嘟嘟无限4|嘟嘟无限5|嘟嘟无限6|优汐智1|优汐智2|优汐智3|优汐智4|优汐智5|优汐智6|优汐无限1|优汐无限2|优汐无限3|优汐无限4|优汐无限5|优汐无限6|嘟嘟无限|嘟嘟无限1|嘟嘟无限2",
+    "ui_remove_parses": "",
+    "ui_remove_class": "伦理",
+    "ui_remove_adjx": "",
+    "ui_parse_name": "",
+    "app_about": "本程序仅用于学习及测试，严禁商业用途。本程序内容均自动引用爬取显示公开网络站点内容。",
+    "pay": {
+      "state": "n",
+      "url": "https://pay.muitc.com",
+      "appid": "",
+      "appkey": "",
+      "ali": "y",
+      "wx": "y",
+      "qq": "y"
+    },
+    "home_ad": [
+      {
+        "name": "家乡美食大赛",
+        "extend": "http://xz.sznas.net:920/atpwl/msds.jpeg",
+        "type": "img"
+      },
+      {
+        "name": "花开锦绣",
+        "extend": "http://xz.sznas.net:920/atpwl/hkjx.jpeg",
+        "type": "img"
+      },
+      {
+        "name": "出入平安",
+        "extend": "http://xz.sznas.net:920/atpwl/crpa.jpeg",
+        "type": "img"
+      },
+      {
+        "name": "兰香如故",
+        "extend": "http://xz.sznas.net:920/atpwl/lxrg.jpeg",
+        "type": "img"
+      },
+      {
+        "name": "蜂鸟行动",
+        "extend": "http://xz.sznas.net:920/atpwl/fnxd.jpeg",
+        "type": "img"
+      },
+      {
+        "name": "哥哥来啦",
+        "extend": "http://xz.sznas.net:920/atpwl/ggll.jpeg",
+        "type": "img"
+      },
+      {
+        "name": "我家那闺女",
+        "extend": "http://xz.sznas.net:920/atpwl/wjngn.jpeg",
+        "type": "img"
+      }
+    ],
+    "notice": [
+      {
+        "content": "首页数据源，推荐使用厂长和荐片线路，可点击左上角换源切换。本程序安卓四及老旧低配设备不建议安装，安卓9以上设备完美运行，首次使用请按以下方法设置以获取最优体验，进入右下角个人中心☞APP设置☞站点推荐设置为站点推荐☞首页数据源设置为厂长或者荐片，解码方式推荐硬解码，如果播放有异常，可尝试切换解码方式.",
+        "date": "2026-09-17 23:30:35",
+        "name": "管理员"
+      },
+      {
+        "content": "可用光影视界、赤兔影院账号登录此软件！",
+        "date": "2026-09-15 23:13:16",
+        "name": "管理员"
+      },
+      {
+        "content": "直播时遇到购物广告时，可按遥控器左右键切换直播源跳过广告，请勿相信软件出现的一切广告！",
+        "date": "2026-09-15 23:11:24",
+        "name": "管理员"
+      }
+    ],
+    "analysis": [],
+    "site": [],
+    "level": [],
+    "storeHouse": [],
+    "zblist": [],
+    "exten": [
+      {
+        "name": "4K超清·必应每日精选",
+        "data": "https://bing.img.run/uhd.php",
+        "id": "1",
+        "appid": "1"
+      },
+      {
+        "name": "4K风光·阿尔卑斯雪山",
+        "data": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=3840",
+        "id": "2",
+        "appid": "1"
+      },
+      {
+        "name": "4K宇宙·浩瀚星河银河",
+        "data": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=3840",
+        "id": "3",
+        "appid": "1"
+      },
+      {
+        "name": "4K极光·梦幻极地星野",
+        "data": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?q=80&w=3840",
+        "id": "4",
+        "appid": "1"
+      },
+      {
+        "name": "4K地球·太空蔚蓝家园",
+        "data": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=3840",
+        "id": "5",
+        "appid": "1"
+      },
+      {
+        "name": "4K暮色·霞光壮丽山峦",
+        "data": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=3840",
+        "id": "6",
+        "appid": "1"
+      }
+    ]
+  },
+  "time": 1791168360
+}
