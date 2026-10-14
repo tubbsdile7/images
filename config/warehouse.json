@@ -1,20 +1,46 @@
 {
+  "liveSecurity": {
+    "gangaotai": {
+      "password": "520",
+      "keywords": [
+        "港澳台",
+        "港·澳·台",
+        "香港",
+        "台湾",
+        "澳门",
+        "港澳特区"
+      ]
+    },
+    "oumei": {
+      "password": "521",
+      "keywords": [
+        "VIP GOOD",
+        "VIPGOOD",
+        "VIP欧美",
+        "欧美",
+        "国际台",
+        "国际",
+        "国外频道",
+        "海外"
+      ]
+    }
+  },
   "urls": [
     {
       "name": "【主力】光影·全能综合专线",
-      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.json"
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.json"
     },
     {
       "name": "【特色】光影·4K网盘原画专线",
-      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/pan4k.json"
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/pan4k.json"
     },
     {
       "name": "【特色】光影·央视卫视直播专线",
-      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/live_iptv.json"
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/live_iptv.json"
     },
     {
       "name": "【特色】光影·老片少儿专线",
-      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/classic_kids.json"
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/classic_kids.json"
     },
     {
       "name": "【备用】肥猫·全网高防专线",
@@ -32,19 +58,19 @@
   "storeHouse": [
     {
       "sourceName": "【主力】光影·全能综合专线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.json"
+      "sourceUrl": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.json"
     },
     {
       "sourceName": "【特色】光影·4K网盘原画专线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/pan4k.json"
+      "sourceUrl": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/pan4k.json"
     },
     {
       "sourceName": "【特色】光影·央视卫视直播专线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/live_iptv.json"
+      "sourceUrl": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/live_iptv.json"
     },
     {
       "sourceName": "【特色】光影·老片少儿专线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/config/classic_kids.json"
+      "sourceUrl": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/classic_kids.json"
     },
     {
       "sourceName": "【备用】肥猫·全网高防专线",
