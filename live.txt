@@ -119,20 +119,6 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2#http://php.jdshipi
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8#https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper#https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8#https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
-HBO HD,http://cf-hls.superiptv.top:8080/live/hbo.m3u8#http://149.202.90.170:8000/live/hbo/index.m3u8#http://31.43.191.125:8080/restream/restream/34918#http://31.43.191.125:8080/restream/restream/34787
-HBO Signature,http://cf-hls.superiptv.top:8080/live/hbo.m3u8#http://149.202.90.170:8000/live/hbo/index.m3u8
-HBO Family,http://cf-hls.superiptv.top:8080/live/hbo.m3u8#http://149.202.90.170:8000/live/hbo/index.m3u8
-CNN International,https://turnerlive.warnermediacdn.com/hls/live/582485/cnngo/cnn/index.m3u8#http://149.202.90.170:8000/live/cnn/index.m3u8#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://jmp2.uk/stvp-ATBD800001VA
-BBC World News,https://vs-cpaas-stream-ww-live.akamaized.net/hls/live/2043048/bbc_world_news/master.m3u8#http://149.202.90.170:8000/live/bbc/index.m3u8
-Discovery Channel,http://149.202.90.170:8000/live/discovery/index.m3u8#http://cf-hls.superiptv.top:8080/live/discovery.m3u8
-National Geographic,http://149.202.90.170:8000/live/natgeo/index.m3u8#http://cf-hls.superiptv.top:8080/live/natgeo.m3u8
-Fox News,http://149.202.90.170:8000/live/foxnews/index.m3u8#https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-Fox Movies,http://149.202.90.170:8000/live/foxnews/index.m3u8
-CNBC USA,http://149.202.90.170:8000/live/cnbc/index.m3u8#http://cf-hls.superiptv.top:8080/live/cnbc.m3u8
-AXN HD,http://149.202.90.170:8000/live/hbo/index.m3u8
-Animax HD,http://cf-hls.superiptv.top:8080/live/hbo.m3u8
-CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://live1.mediadesk.al/cnatvlive.m3u8
-NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 VIP GOOD,#genre#
 VIP特权专享1,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
