@@ -19,7 +19,7 @@ CCTV16奥林匹克,http://207.56.13.146:81/cdnlive/cctv16.m3u8#http://38.75.136.
 CCTV17农业农村,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd#http://74.91.26.218:82/live/cctv17hd.m3u8#http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CETV1教育一套,http://198.204.228.26/live/cetv1hd.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd#http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub#http://120.76.248.139/live/bfgd/4200000135.m3u8#https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 CETV4教育四套,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8#https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8#http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=b637d3083747642f29b310fc5ba99367&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260827062127&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=47.92.23.141&SecurityKey=20260827062127&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=960f499360818845510385e0e5605573&ddCalcu=3976v50a5fb04a6959e306e0588138081455&sv=10004&ct=android#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8#http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#https://0472.org/hls/cgtn.m3u8#http://gslbserv.itv.cmvideo.cn/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
+CGTN,https://0472.org/hls/cgtn.m3u8#http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#http://gslbserv.itv.cmvideo.cn/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8#https://0472.org/hls/cgtnd.m3u8#http://gslbserv.itv.cmvideo.cn/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 
@@ -121,7 +121,11 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2#http://php.jdshipi
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8#https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
 
 VIP GOOD,#genre#
-VIP特权专享1,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-VIP特权专享2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
-VIP影视专线,http://198.204.228.26/live/chcdz.m3u8
-VIP体育专线,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+HBO HD,http://31.43.191.125:8080/restream/restream/34918#http://31.43.191.125:8080/restream/restream/34787#http://31.43.191.125:8080/restream/restream/34571#http://cf-hls.superiptv.top:8080/live/hbo.m3u8
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://jmp2.uk/stvp-ATBD800001VA#https://jmp2.uk/stvp-GBBD8000016N#http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/72329.ts
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8#http://149.202.90.170:8000/live/foxnews/index.m3u8
+BBC World News,https://vs-cpaas-stream-ww-live.akamaized.net/hls/live/2043048/bbc_world_news/master.m3u8
+Discovery Channel,http://149.202.90.170:8000/live/discovery/index.m3u8
+National Geographic,http://149.202.90.170:8000/live/natgeo/index.m3u8
+MTV Live HD,http://149.202.90.170:8000/live/mtv/index.m3u8
+CNBC USA,http://149.202.90.170:8000/live/cnbc/index.m3u8
