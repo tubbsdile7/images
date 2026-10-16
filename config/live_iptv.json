@@ -63,23 +63,7 @@
   ],
   "lives": [
     {
-      "name": "光影聚合·远程镜像极速 (ghfast)",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "光影聚合·纯净央卫高清 (国内极速)",
-      "type": 0,
-      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "光影聚合·远程镜像备用 (gh-proxy)",
+      "name": "光影聚合·gh-proxy 极速镜像 (首选1.3s)",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
       "playerType": 2,
@@ -87,7 +71,39 @@
       "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     },
     {
-      "name": "光影聚合·多源融合备用 (ghfast)",
+      "name": "光影聚合·ghfast 顶级镜像 (Anycast)",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·GCore 国内极速 (Anycast CDN)",
+      "type": 0,
+      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·gh-proxy.net 稳定镜像",
+      "type": 0,
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·ghproxy 经典镜像",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·多源备用 (ghfast)",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/config/live.txt",
       "playerType": 2,
@@ -103,7 +119,7 @@
       "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     },
     {
-      "name": "光影聚合·全球备用 (jsDelivr)",
+      "name": "光影聚合·全球镜像 (jsDelivr兜底)",
       "type": 0,
       "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
       "playerType": 2,
