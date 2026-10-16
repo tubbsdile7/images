@@ -79,5 +79,35 @@
       "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     }
   ],
-  "epg": "https://epg.112114.xyz/"
+  "epg": "https://epg.112114.xyz/",
+  "ads": [
+    "63.141.230.178",
+    "74.91.26.218",
+    "198.204.240.250",
+    "207.56.13.146",
+    "204.12.221.218",
+    "173.208.212.130",
+    "107.150.60.122",
+    "192.151.150.154",
+    "193.123.86.190",
+    "198.204.228.26",
+    "38.75.136.137",
+    "bztv.tvbus.cc",
+    "tvbus.cc",
+    "104.152.209.49",
+    "69.30.245.50",
+    "mkt/segment",
+    "/mkt/",
+    "yss/segment",
+    "/yss/",
+    "cctv1md",
+    "cctv2md",
+    "cctv6md",
+    "cctv8md",
+    "cctv10md",
+    "cctv11md",
+    "cctv13md",
+    "cctv14md",
+    "cctv15md"
+  ]
 }
