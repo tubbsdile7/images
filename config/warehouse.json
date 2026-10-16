@@ -84,5 +84,101 @@
       "sourceName": "【备用】南风·影视综合专线",
       "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     }
+  ],
+  "lives": [
+    {
+      "name": "光影聚合·gh-proxy 极速镜像 (首选1.3s)",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·ghfast 顶级镜像 (Anycast)",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·GCore 国内极速 (Anycast CDN)",
+      "type": 0,
+      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·gh-proxy.net 稳定镜像",
+      "type": 0,
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·ghproxy 经典镜像",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·多源备用 (ghfast)",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/config/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·本地内置极速 (免网秒开)",
+      "type": 0,
+      "url": "assets://live_unified.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·全球镜像 (jsDelivr兜底)",
+      "type": 0,
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    }
+  ],
+  "ads": [
+    "63.141.230.178",
+    "74.91.26.218",
+    "198.204.240.250",
+    "207.56.13.146",
+    "204.12.221.218",
+    "173.208.212.130",
+    "107.150.60.122",
+    "192.151.150.154",
+    "193.123.86.190",
+    "198.204.228.26",
+    "38.75.136.137",
+    "bztv.tvbus.cc",
+    "tvbus.cc",
+    "104.152.209.49",
+    "69.30.245.50",
+    "mkt/segment",
+    "/mkt/",
+    "yss/segment",
+    "/yss/",
+    "cctv1md",
+    "cctv2md",
+    "cctv6md",
+    "cctv8md",
+    "cctv10md",
+    "cctv11md",
+    "cctv13md",
+    "cctv14md",
+    "cctv15md"
   ]
 }
