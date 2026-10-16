@@ -629,11 +629,11 @@
     }
   ],
   "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png",
-  "hosts": [
-    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-    "fiizvfck.top=fan.cloudflare.182682.xyz",
-    "images.67c6c7a.com=fan.cloudflare.182682.xyz"
-  ],
+  "hosts": {
+    "github.com": "20.205.243.166",
+    "github.global.ssl.fastly.net": "154.92.16.97",
+    "raw.githubusercontent.com": "185.199.108.133"
+  },
   "lives": [
     {
       "name": "光影聚合·gh-proxy 极速镜像 (首选1.3s)",
