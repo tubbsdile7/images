@@ -636,12 +636,12 @@
   ],
   "lives": [
     {
-      "name": "光影聚合·本地内置极速 (免网秒开)",
+      "name": "光影聚合·远程镜像极速 (ghfast)",
       "type": 0,
-      "url": "assets://live_unified.txt",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
       "playerType": 2,
       "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     },
     {
       "name": "光影聚合·纯净央卫高清 (国内极速)",
@@ -649,20 +649,36 @@
       "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
       "playerType": 2,
       "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     },
     {
-      "name": "光影聚合·备用央卫高清 (全球镜像)",
+      "name": "光影聚合·远程镜像备用 (gh-proxy)",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
       "playerType": 2,
       "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     },
     {
-      "name": "光影聚合·多源融合备用",
+      "name": "光影聚合·多源融合备用 (ghfast)",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/live.txt",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/config/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·本地内置极速 (免网秒开)",
+      "type": 0,
+      "url": "assets://live_unified.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·全球备用 (jsDelivr)",
+      "type": 0,
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
       "playerType": 2,
       "epg": "https://epg.112114.xyz/",
       "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
