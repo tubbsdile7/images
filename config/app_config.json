@@ -219,5 +219,74 @@
       }
     ]
   },
-  "time": 1791168360
+  "time": 1791168360,
+  "github520_hosts": {
+    "github.com": "20.205.243.166",
+    "github.global.ssl.fastly.net": "154.92.16.97",
+    "raw.githubusercontent.com": "185.199.108.133"
+  },
+  "ghproxy_link_status": "synced",
+  "remote_mirrors": [
+    {
+      "name": "本地 APK assets 内部直读",
+      "url": "assets://live_unified.txt",
+      "prefix": "assets://",
+      "elapsed": 0.001
+    },
+    {
+      "name": "242 内网 Docker 高速节点",
+      "url": "http://192.168.100.242:16000/live.txt",
+      "prefix": "http://192.168.100.242:16000/",
+      "elapsed": 0.264
+    },
+    {
+      "name": "fastly 全球高防 CDN",
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "prefix": "https://fastly.jsdelivr.net/gh/",
+      "elapsed": 1.206
+    },
+    {
+      "name": "jsdelivr.b-cdn Bunny加速",
+      "url": "https://jsdelivr.b-cdn.net/gh/tubbsdile7/images@main/live.txt",
+      "prefix": "https://jsdelivr.b-cdn.net/gh/",
+      "elapsed": 1.306
+    },
+    {
+      "name": "testingcf 亚太高可用 CDN",
+      "url": "https://testingcf.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "prefix": "https://testingcf.jsdelivr.net/gh/",
+      "elapsed": 1.372
+    },
+    {
+      "name": "GCore 国内极速 Anycast CDN",
+      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "prefix": "https://gcore.jsdelivr.net/gh/",
+      "elapsed": 1.419
+    },
+    {
+      "name": "cdn.jsdelivr 官方节点",
+      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "prefix": "https://cdn.jsdelivr.net/gh/",
+      "elapsed": 1.478
+    },
+    {
+      "name": "jsd 微软云加速节点",
+      "url": "https://jsd.onmicrosoft.cn/gh/tubbsdile7/images@main/live.txt",
+      "prefix": "https://jsd.onmicrosoft.cn/gh/",
+      "elapsed": 1.56
+    },
+    {
+      "name": "gh-proxy.ygxz 节点",
+      "url": "https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "prefix": "https://gh-proxy.ygxz.in/",
+      "elapsed": 1.939
+    },
+    {
+      "name": "gh.bnu120 节点",
+      "url": "https://gh.bnu120.space/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+      "prefix": "https://gh.bnu120.space/",
+      "elapsed": 1.944
+    }
+  ],
+  "primary_live_url": "assets://live_unified.txt"
 }
