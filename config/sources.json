@@ -636,104 +636,18 @@
   ],
   "lives": [
     {
-      "name": "全国央卫（IPv4秒开）",
+      "name": "光影聚合·纯净央卫高清",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/Guovin/iptv-api@gd/output/ipv4/result.m3u",
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
       "playerType": 2,
       "epg": "https://epg.112114.xyz/",
       "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     },
     {
-      "name": "全国精选（每日更新）",
+      "name": "光影聚合·多源融合备用",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/live.txt",
       "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "央视卫视（IPv6超清）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/Guovin/iptv-api@gd/output/ipv6/result.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "范明明（央卫高清）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "范明明（IPv6秒开）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "YanG-1989（全国聚合）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/YanG-1989/m3u@main/Gather.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "YueChan（精选央卫）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "CCSH（带标央卫全量）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/CCSH/IPTV@main/live.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "BurningC4（央卫精选）",
-      "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u",
-      "playerType": 2,
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0",
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0",
-      "epg": "https://epg.112114.xyz/",
-      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0",
       "epg": "https://epg.112114.xyz/",
       "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
     }
