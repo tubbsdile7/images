@@ -63,7 +63,23 @@
   ],
   "lives": [
     {
-      "name": "光影聚合·纯净央卫高清",
+      "name": "光影聚合·本地内置极速 (免网秒开)",
+      "type": 0,
+      "url": "assets://live_unified.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·纯净央卫高清 (国内极速)",
+      "type": 0,
+      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "playerType": 2,
+      "epg": "https://epg.112114.xyz/",
+      "logo": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/{name}.png"
+    },
+    {
+      "name": "光影聚合·备用央卫高清 (全球镜像)",
       "type": 0,
       "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
       "playerType": 2,
