@@ -35,7 +35,7 @@
     "app_json": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/sources.bmp",
     "app_jsonb": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/warehouse.bmp",
     "app_jsonc": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/config/warehouse.bmp",
-    "app_huodong": "https://github.com/tubbsdile7/images/",
+    "app_huodong": "",
     "logon_way": "0",
     "smtp_state": "y",
     "ui_paybackg": "",
@@ -111,6 +111,11 @@
       }
     ],
     "notice": [
+      {
+        "content": "【云端测速优化上线】TV端已全面升级云端智能多镜像调度系统！全自动优选极速高清专线，支持遥控器左右键无缝切源。本软件为纯净学习测试版，请勿轻信任何弹窗广告！",
+        "date": "2026-10-18 15:10:00",
+        "name": "官方运维"
+      },
       {
         "content": "首页数据源，推荐使用厂长和荐片线路，可点击左上角换源切换。本程序安卓四及老旧低配设备不建议安装，安卓9以上设备完美运行，首次使用请按以下方法设置以获取最优体验，进入右下角个人中心☞APP设置☞站点推荐设置为站点推荐☞首页数据源设置为厂长或者荐片，解码方式推荐硬解码，如果播放有异常，可尝试切换解码方式.",
         "date": "2026-09-17 23:30:35",
