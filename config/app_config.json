@@ -4,7 +4,7 @@
     "appkey": "8b8c71b17d9985fe6d6192c655681352",
     "app_bb": "1.6.8",
     "app_nshow": "更换了光影团队定制盒子显示的长图标和普通图标，提示美观度此版本主要增加了直播节目信息显示和文字预告。修复若干小问题，可到时光市场更新或官网https://xz.gysj.app下载升级包",
-    "app_nurl": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/app/gyjh-pro.apk",
+    "app_nurl": "",
     "app_bb_mobile": "1.0",
     "app_nshow_mobile": "",
     "app_nurl_mobile": "",
@@ -243,12 +243,6 @@
       "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
       "prefix": "https://gcore.jsdelivr.net/gh/",
       "elapsed": 0.58
-    },
-    {
-      "name": "242 内网 Docker 高速专线",
-      "url": "http://192.168.100.242:16000/live.txt",
-      "prefix": "http://192.168.100.242:16000/",
-      "elapsed": 0.26
     },
     {
       "name": "cdn.jsdelivr 官方节点",
