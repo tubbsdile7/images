@@ -186,7 +186,7 @@
         "name": "gh-proxy 极速镜像 (推荐)",
         "prefix": "https://gh-proxy.com/",
         "in_bmp": "https://gh-proxy.com/https://raw.githubusercontent.com/tubbsdile7/images/main/config/in.bmp",
-        "live": "https://gh-proxy.com/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+        "live": "https://gh-proxy.com/https://raw.githubusercontent.com/tubbsdile7/images/main/live.bmp",
         "speed": "1.32s",
         "status": "200 OK"
       },
@@ -194,7 +194,7 @@
         "name": "ghfast 顶级镜像 (Anycast)",
         "prefix": "https://ghfast.top/",
         "in_bmp": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/config/in.bmp",
-        "live": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+        "live": "https://ghfast.top/https://raw.githubusercontent.com/tubbsdile7/images/main/live.bmp",
         "speed": "2.41s",
         "status": "200 OK"
       },
@@ -202,7 +202,7 @@
         "name": "gh-proxy.net 稳定镜像",
         "prefix": "https://gh-proxy.net/",
         "in_bmp": "https://gh-proxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/config/in.bmp",
-        "live": "https://gh-proxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+        "live": "https://gh-proxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.bmp",
         "speed": "2.10s",
         "status": "200 OK"
       },
@@ -210,7 +210,7 @@
         "name": "ghproxy 经典镜像",
         "prefix": "https://ghproxy.net/",
         "in_bmp": "https://ghproxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/config/in.bmp",
-        "live": "https://ghproxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.txt",
+        "live": "https://ghproxy.net/https://raw.githubusercontent.com/tubbsdile7/images/main/live.bmp",
         "speed": "2.85s",
         "status": "200 OK"
       },
@@ -218,7 +218,7 @@
         "name": "GCore 国内 Anycast CDN",
         "prefix": "https://gcore.jsdelivr.net/gh/",
         "in_bmp": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/config/in.bmp",
-        "live": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+        "live": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.bmp",
         "speed": "1.26s",
         "status": "200 OK"
       }
@@ -234,19 +234,19 @@
   "remote_mirrors": [
     {
       "name": "fastly 全球高防 CDN (推荐·秒开)",
-      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.bmp",
       "prefix": "https://fastly.jsdelivr.net/gh/",
       "elapsed": 0.42
     },
     {
       "name": "GCore 国内极速 Anycast CDN",
-      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "url": "https://gcore.jsdelivr.net/gh/tubbsdile7/images@main/live.bmp",
       "prefix": "https://gcore.jsdelivr.net/gh/",
       "elapsed": 0.58
     },
     {
       "name": "cdn.jsdelivr 官方节点",
-      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/live.txt",
+      "url": "https://cdn.jsdelivr.net/gh/tubbsdile7/images@main/live.bmp",
       "prefix": "https://cdn.jsdelivr.net/gh/",
       "elapsed": 0.65
     },
@@ -263,5 +263,5 @@
       "elapsed": 0.001
     }
   ],
-  "primary_live_url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.txt"
+  "primary_live_url": "https://fastly.jsdelivr.net/gh/tubbsdile7/images@main/live.bmp"
 }
